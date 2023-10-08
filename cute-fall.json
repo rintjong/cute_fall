@@ -1,0 +1,425 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "backup_ads_natives":"null",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"null",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"null",
+      "open_ads_max":"null",
+      "open_ads_wortise":"null",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":"1"
+    }
+  ],
+  "More":
+  [
+        {
+			"id": 1,
+			"title": "Navy Seal Wallpaper",
+			"image": "https://play-lh.googleusercontent.com/7THc2UBA13B-NMpiS06uTNbWAoSvdLyMVnrJiwPGGYIwDYSKOwhPESlv1pKJXIXNNA=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.usnavyseal"
+		},
+		{
+			"id": 2,
+			"title": "Wallpaper 4K HD Wallpapers",
+			"image": "https://play-lh.googleusercontent.com/-dVTrS8scTittKLTqffmgQ65t2y4EP-lMRdcYEc2XlG_upCuNunFt6SCacfQz1c0tA=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.hdwallpaper4k"
+		},
+		{
+			"id": 3,
+			"title": "Sakura Anime Wallpaper",
+			"image": "https://play-lh.googleusercontent.com/W87QPqBURJQgR7fpzZJZJCsMntXQJqfqMDPCUr44BPELexCB3XoFh3LeAAE8miy3Dg=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.sakura_anime.wallpaper"
+		}
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Girly Cute Fall Backgrounds",
+      "image": "https://i.pinimg.com/564x/c7/75/c3/c775c3f225d414481fe2fd87a81e59e3.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Cute Autumn Wallpaper",
+      "image": "https://i.pinimg.com/564x/bc/55/e6/bc55e68a5de89b6a75872b021eb2a258.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Pretty Fall Wallpapers",
+      "image": "https://i.pinimg.com/564x/c8/c5/60/c8c560973aaf88e4f4d9194a54347ec7.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Girly Cute Fall Backgrounds",
+      "title":"Girly Cute Fall Backgrounds",
+      "image":"https://i.pinimg.com/564x/e8/7c/ca/e87ccad31790884ab8799b6682932cb6.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Girly Cute Fall Backgrounds",
+      "title": "Girly Cute Fall Backgrounds",
+      "image": "https://i.pinimg.com/564x/ce/54/6d/ce546dcf2e0fb7847093dcd829c84b50.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "Girly Cute Fall Backgrounds",
+      "title":"Girly Cute Fall Backgrounds",
+      "image":"https://i.pinimg.com/564x/8e/02/27/8e0227fe7f39404fb1b6ae9c0a008fac.jpg"
+    },
+    {
+      "id":4,
+      "name_category": "Girly Cute Fall Backgrounds",
+      "title":"Girly Cute Fall Backgrounds",
+      "image":"https://i.pinimg.com/564x/08/7e/72/087e72c5030084e569db626672788127.jpg"
+    },
+    {
+      "id": 5,
+      "name_category": "Girly Cute Fall Backgrounds",
+      "title": "Girly Cute Fall Backgrounds",
+      "image": "https://i.pinimg.com/564x/59/6d/72/596d7293001b6a1d9903687e7df13f85.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "Girly Cute Fall Backgrounds",
+      "title":"Girly Cute Fall Backgrounds",
+      "image":"https://i.pinimg.com/564x/79/bd/02/79bd02b0cefe830d811c3b29e9b54277.jpg"
+    },
+	{
+      "id":7,
+      "name_category": "Girly Cute Fall Backgrounds",
+      "title":"Girly Cute Fall Backgrounds",
+      "image":"https://i.pinimg.com/564x/42/d5/0c/42d50cf6ab0467757376fbc7fe1e369a.jpg"
+    },
+    {
+      "id": 8,
+      "name_category": "Girly Cute Fall Backgrounds",
+      "title": "Girly Cute Fall Backgrounds",
+      "image": "https://i.pinimg.com/564x/e6/4b/06/e64b06d9626d329402629371f78cd94b.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "Girly Cute Fall Backgrounds",
+      "title":"Girly Cute Fall Backgrounds",
+      "image":"https://i.pinimg.com/564x/0f/4b/ac/0f4bacd368947449de5e928d5066e9c0.jpg"
+    },
+	{
+      "id":10,
+      "name_category": "Girly Cute Fall Backgrounds",
+      "title":"Girly Cute Fall Backgrounds",
+      "image":"https://i.pinimg.com/564x/e2/47/89/e247898a07d1ac65f1011617daff0d23.jpg"
+    },
+    
+    {
+      "id":12,
+      "name_category": "Girly Cute Fall Backgrounds",
+      "title":"Girly Cute Fall Backgrounds",
+      "image":"https://i.pinimg.com/564x/07/08/42/070842e1985aaa57ef22e9710ba9c43d.jpg"
+    },
+	{
+      "id":13,
+      "name_category": "Girly Cute Fall Backgrounds",
+      "title":"Girly Cute Fall Backgrounds",
+      "image":"https://i.pinimg.com/564x/13/87/5e/13875ea5e3f388d82a88a4a9f1f42f04.jpg"
+    },
+    {
+      "id": 14,
+      "name_category": "Girly Cute Fall Backgrounds",
+      "title": "Girly Cute Fall Backgrounds",
+      "image": "https://i.pinimg.com/564x/51/dd/93/51dd932c0e156f67d20d86848f360944.jpg"
+    },
+    {
+      "id":15,
+      "name_category": "Girly Cute Fall Backgrounds",
+      "title":"Girly Cute Fall Backgrounds",
+      "image":"https://i.pinimg.com/564x/55/53/af/5553af65c6ba6dd3024f3d1712507302.jpg"
+    },
+	{
+      "id":16,
+      "name_category": "Girly Cute Fall Backgrounds",
+      "title":"Girly Cute Fall Backgrounds",
+      "image":"https://i.pinimg.com/564x/dc/c4/b5/dcc4b5f21c6dd971cd23a833ceb4043b.jpg"
+    },
+    {
+      "id": 17,
+      "name_category": "Girly Cute Fall Backgrounds",
+      "title": "Girly Cute Fall Backgrounds",
+      "image": "https://i.pinimg.com/564x/94/c0/2d/94c02da4875b8596f84ff46a0ce90f41.jpg"
+    },
+    {
+      "id":18,
+      "name_category": "Girly Cute Fall Backgrounds",
+      "title":"Girly Cute Fall Backgrounds",
+      "image":"https://i.pinimg.com/564x/fb/f8/6c/fbf86ce3df9df315ea6e46c0ca6a9b0b.jpg"
+    },
+	{
+      "id":19,
+      "name_category": "Girly Cute Fall Backgrounds",
+      "title":"Girly Cute Fall Backgrounds",
+      "image":"https://i.pinimg.com/564x/3a/d4/b5/3ad4b5cc3215c2b8cd344cada49c9c21.jpg"
+    },
+    {
+      "id": 20,
+      "name_category": "Girly Cute Fall Backgrounds",
+      "title": "Girly Cute Fall Backgrounds",
+      "image": "https://i.pinimg.com/564x/ef/16/64/ef166402dc7a331bdfd7fecce9f78e2a.jpg"
+    },
+	{
+      "id":21,
+      "name_category": "Cute Autumn Wallpaper",
+      "title":"Cute Autumn Wallpaper",
+      "image":"https://i.pinimg.com/564x/0d/57/cb/0d57cb0a8a96b630e695a877a10bf4d7.jpg"
+    },
+	{
+      "id":22,
+      "name_category": "Cute Autumn Wallpaper",
+      "title":"Cute Autumn Wallpaper",
+      "image":"https://i.pinimg.com/564x/69/ff/c9/69ffc9c273f5b19852769c05274fe87e.jpg"
+    },
+    {
+      "id": 23,
+      "name_category": "Cute Autumn Wallpaper",
+      "title": "Cute Autumn Wallpaper",
+      "image": "https://i.pinimg.com/564x/64/1f/0f/641f0f0f7ee5cfa3f469ecf4538d5f89.jpg"
+    },
+    {
+      "id":24,
+      "name_category": "Cute Autumn Wallpaper",
+      "title":"Cute Autumn Wallpaper",
+      "image":"https://i.pinimg.com/564x/f7/e5/6f/f7e56f9de9531717c6db614069f6b291.jpg"
+    },
+	
+	{
+      "id":26,
+      "name_category": "Cute Autumn Wallpaper",
+      "title":"Cute Autumn Wallpaper",
+      "image":"https://i.pinimg.com/564x/27/8a/db/278adb5db4b9b3f56783cd61a56d283b.jpg"
+    },
+    {
+      "id": 27,
+      "name_category": "Cute Autumn Wallpaper",
+      "title": "Cute Autumn Wallpaper",
+      "image": "https://i.pinimg.com/564x/f1/a8/ea/f1a8eaffc03ec327ffb9535e9dfc3ee1.jpg"
+    },
+    {
+      "id":28,
+      "name_category": "Cute Autumn Wallpaper",
+      "title":"Cute Autumn Wallpaper",
+      "image":"https://i.pinimg.com/564x/b5/b0/ff/b5b0ff02e7b71c1fdd94c48c112e9bc0.jpg"
+    },
+	{
+      "id":29,
+      "name_category": "Cute Autumn Wallpaper",
+      "title":"Cute Autumn Wallpaper",
+      "image":"https://i.pinimg.com/564x/c8/c5/60/c8c560973aaf88e4f4d9194a54347ec7.jpg"
+    },
+	{
+      "id":30,
+      "name_category": "Cute Autumn Wallpaper",
+      "title":"Cute Autumn Wallpaper",
+      "image":"https://i.pinimg.com/564x/be/d4/d0/bed4d06128a95606929786fb80b8664d.jpg"
+    },
+	{
+      "id": 31,
+      "name_category": "Cute Autumn Wallpaper",
+      "title": "Cute Autumn Wallpaper",
+      "image": "https://i.pinimg.com/564x/ad/fe/ee/adfeee644c75e07d1599dc1e9c9d1d63.jpg"
+    },
+    {
+      "id":32,
+      "name_category": "Cute Autumn Wallpaper",
+      "title":"Cute Autumn Wallpaper",
+      "image":"https://i.pinimg.com/564x/1a/74/d0/1a74d09b7f407aa466a78bd2b95476b9.jpg"
+    },
+	{
+      "id":33,
+      "name_category": "Cute Autumn Wallpaper",
+      "title":"Cute Autumn Wallpaper",
+      "image":"https://i.pinimg.com/564x/55/83/a7/5583a721f6eb373ec2580d24db439c3e.jpg"
+    },
+	{
+      "id":34,
+      "name_category": "Cute Autumn Wallpaper",
+      "title":"Cute Autumn Wallpaper",
+      "image":"https://i.pinimg.com/564x/cc/26/7f/cc267f6f779ed92d4b828e492f38b91c.jpg"
+    },
+    {
+      "id": 35,
+      "name_category": "Cute Autumn Wallpaper",
+      "title": "Cute Autumn Wallpaper",
+      "image": "https://i.pinimg.com/564x/fd/cd/3c/fdcd3c5eb65b3ade613e15275ce3a313.jpg"
+    },
+    {
+      "id":36,
+      "name_category": "Cute Autumn Wallpaper",
+      "title":"Cute Autumn Wallpaper",
+      "image":"https://i.pinimg.com/564x/20/56/e7/2056e7829eacd60f6f92471fa2df425c.jpg"
+    },
+	{
+      "id":37,
+      "name_category": "Cute Autumn Wallpaper",
+      "title":"Cute Autumn Wallpaper",
+      "image":"https://i.pinimg.com/564x/ed/95/64/ed956453c5c7cda8d5a9a24ce84cf959.jpg"
+    },
+	{
+      "id":38,
+      "name_category": "Cute Autumn Wallpaper",
+      "title":"Cute Autumn Wallpaper",
+      "image":"https://i.pinimg.com/564x/5e/e8/6e/5ee86eca2aac0582c37c616d10c35b05.jpg"
+    },
+    {
+      "id": 39,
+      "name_category": "Cute Autumn Wallpaper",
+      "title": "Cute Autumn Wallpaper",
+      "image": "https://i.pinimg.com/564x/7b/51/d8/7b51d80b1b5fee86a66344515c439969.jpg"
+    },
+    {
+      "id":40,
+      "name_category": "Cute Autumn Wallpaper",
+      "title":"Cute Autumn Wallpaper",
+      "image":"https://i.pinimg.com/564x/c1/d9/ab/c1d9ab6ffb15b5393785e47ee026546e.jpg"
+    },
+	{
+      "id":41,
+      "name_category": "Pretty Fall Wallpapers",
+      "title":"Pretty Fall Wallpapers",
+      "image":"https://i.pinimg.com/564x/08/13/b1/0813b13f17477163d080463e2b667c90.jpg"
+    },
+	{
+      "id":42,
+      "name_category": "Pretty Fall Wallpapers",
+      "title":"Pretty Fall Wallpapers",
+      "image":"https://i.pinimg.com/564x/53/e8/5a/53e85a2f9607b1e2ebbfa4d11ee955d9.jpg"
+    },
+    {
+      "id": 43,
+      "name_category": "Pretty Fall Wallpapers",
+      "title": "Pretty Fall Wallpapers",
+      "image": "https://i.pinimg.com/564x/eb/70/c4/eb70c4737da199ae26b724cf732805f5.jpg"
+    },
+    {
+      "id":44,
+      "name_category": "Pretty Fall Wallpapers",
+      "title":"Pretty Fall Wallpapers",
+      "image":"https://i.pinimg.com/564x/ae/78/8d/ae788db16b67752dcde8248a5726d91c.jpg"
+    },
+	{
+      "id":45,
+      "name_category": "Pretty Fall Wallpapers",
+      "title":"Pretty Fall Wallpapers",
+      "image":"https://i.pinimg.com/564x/ee/fa/28/eefa28cc23f644592c24c51ca4eebfd9.jpg"
+    },
+	{
+      "id":46,
+      "name_category": "Pretty Fall Wallpapers",
+      "title":"Pretty Fall Wallpapers",
+      "image":"https://i.pinimg.com/564x/d1/93/7a/d1937a306a557e810576f597c5197cf4.jpg"
+    },
+    {
+      "id": 47,
+      "name_category": "Pretty Fall Wallpapers",
+      "title": "Pretty Fall Wallpapers",
+      "image": "https://i.pinimg.com/564x/67/51/ae/6751ae9cd3a166d7bdff05d629de91f9.jpg"
+    },
+    {
+      "id":48,
+      "name_category": "Pretty Fall Wallpapers",
+      "title":"Pretty Fall Wallpapers",
+      "image":"https://i.pinimg.com/564x/ea/a3/1a/eaa31a505e0d7a5cff817185089e091b.jpg"
+    },
+	{
+      "id":49,
+      "name_category": "Pretty Fall Wallpapers",
+      "title":"Pretty Fall Wallpapers",
+      "image":"https://i.pinimg.com/564x/18/95/96/189596d25f47e9336e2f6d3aa381dee1.jpg"
+    },
+	{
+      "id":50,
+      "name_category": "Pretty Fall Wallpapers",
+      "title":"Pretty Fall Wallpapers",
+      "image":"https://i.pinimg.com/564x/dd/69/88/dd6988ec388587c16459cf7ea552b872.jpg"
+    },
+    {
+      "id": 51,
+      "name_category": "Pretty Fall Wallpapers",
+      "title": "Pretty Fall Wallpapers",
+      "image": "https://i.pinimg.com/564x/05/95/f9/0595f935a6ee269782bbeba530563be6.jpg"
+    },
+    {
+      "id":52,
+      "name_category": "Pretty Fall Wallpapers",
+      "title":"Pretty Fall Wallpapers",
+      "image":"https://i.pinimg.com/564x/82/4d/73/824d7318ff9558218e025f74480c42e8.jpg"
+    },
+	{
+      "id":53,
+      "name_category": "Pretty Fall Wallpapers",
+      "title":"Pretty Fall Wallpapers",
+      "image":"https://i.pinimg.com/564x/88/8a/d1/888ad13ea75e8a2435cf537b143515c1.jpg"
+    },
+	{
+      "id":54,
+      "name_category": "Pretty Fall Wallpapers",
+      "title":"Pretty Fall Wallpapers",
+      "image":"https://i.pinimg.com/564x/83/47/e7/8347e7a86074ad85d210ceb0d8a59494.jpg"
+    },
+	{
+      "id":55,
+      "name_category": "Pretty Fall Wallpapers",
+      "title":"Pretty Fall Wallpapers",
+      "image":"https://i.pinimg.com/564x/93/6d/ea/936dea18c55c5b8620cadddb7d8178a6.jpg"
+    },
+    {
+      "id": 56,
+      "name_category": "Pretty Fall Wallpapers",
+      "title": "Pretty Fall Wallpapers",
+      "image": "https://i.pinimg.com/564x/6f/e5/db/6fe5db57de7b00b57aa25d909e0b95df.jpg"
+    },
+   
+	{
+      "id":58,
+      "name_category": "Pretty Fall Wallpapers",
+      "title":"Pretty Fall Wallpapers",
+      "image":"https://i.pinimg.com/564x/4f/c5/81/4fc58179638b6d89c07ffe7ef83dd27a.jpg"
+    },
+	{
+      "id":59,
+      "name_category": "Pretty Fall Wallpapers",
+      "title":"Pretty Fall Wallpapers",
+      "image":"https://i.pinimg.com/564x/66/0e/26/660e26161b20afab382a5c5923957da6.jpg"
+    },
+    {
+      "id": 60,
+      "name_category": "Pretty Fall Wallpapers",
+      "title": "Pretty Fall Wallpapers",
+      "image": "https://i.pinimg.com/564x/4e/0b/70/4e0b7032ccceac79b5abe5e4ae75e252.jpg"
+    }
+	
+	
+  ]
+}
